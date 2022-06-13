@@ -1,4 +1,4 @@
 # DS_helper
 Cheat CODES for different Data Structures.
-For explanation and working of the algorithm, visit: 
+To understand how the algorithm works with examples, visit: 
 https://www.geeksforgeeks.org/quick-sort/
