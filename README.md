@@ -5,3 +5,4 @@ https://www.geeksforgeeks.org/quick-sort/
 https://www.geeksforgeeks.org/topological-sorting/
 https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
 https://www.geeksforgeeks.org/data-structures/linked-list/?ref=lbp
+https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/?ref=lbp
