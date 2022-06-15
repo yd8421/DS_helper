@@ -1,0 +1,11 @@
+void dfs(int node, vector<vector<int>>& arr, vector<int>& visited, int& cost) {
+    if (visited[node]) return;
+
+    visited[node] = 1;
+    cost++;
+    for (int i : arr[node]) {
+        if (visited[i] == 0) {
+            dfs(i, arr, visited, cost);
+        }
+    }
+}
