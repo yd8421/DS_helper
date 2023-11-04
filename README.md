@@ -1,10 +1,10 @@
 # DS_helper
-Cheat CODES for different Data Structures.
-For detailed explanation, visit: 
-https://www.geeksforgeeks.org/quick-sort/
-https://www.geeksforgeeks.org/topological-sorting/
-https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
-https://www.geeksforgeeks.org/data-structures/linked-list/?ref=lbp
-https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/?ref=lbp
+Code implementation for various Algorithms.
 
-Visit: https://www.codechef.com/learning for mentored learning
+There are great sites out there to learn and improve concepts in various coding languages for free, explore:
+https://www.geeksforgeeks.org
+https://www.codechef.com
+https://www.hackerrank.com
+https://www.interviewbit.com
+
+Visit: https://www.codechef.com/learning or any other above mentioned sites for mentored learning
